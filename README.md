@@ -1,5 +1,5 @@
 ## General
-16-665 Air Mobility Assignment
+16-665 Air Mobility Project
 Last Updated: 10 October 2019
 Shubham Garg (ssgarg) and Hannah Lyness (hlyness)
 
